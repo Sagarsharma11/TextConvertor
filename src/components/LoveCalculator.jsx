@@ -12,7 +12,7 @@ export default function LoveCalculator() {
 
         var his =document.getElementById("exampleInputEmail1").value
         var her = document.getElementById("exampleInputPassword1").value
-        if( his.toLowerCase() === 'sagar' && her.toLowerCase() === 'mayuri' )
+        if( his.toLowerCase() === 'sagar' )
         {
             setLove("99.99%")
         }else 
